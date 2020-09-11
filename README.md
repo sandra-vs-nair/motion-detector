@@ -1,8 +1,8 @@
-##Webcam motion-detector using python.
+## Webcam motion-detector using python.
 
 This project demonstrates a webcam motion-detector application using python. The area is detected for motion. The time when some movement occur and time when it stops is recorded as a csv file.
 
-#Prerequisites
+# Prerequisites
 
 Install cv2 and pandas library using the below commands.
 
@@ -16,7 +16,7 @@ pip install pandas
 
 ````
 
-#Usage
+# Usage
 
 Run the python file motion_detector.py. Use the commands below in any terminal.
 ```
